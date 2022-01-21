@@ -57,7 +57,7 @@
     "ioredis-lock": "^3.4.0",
     "istanbul": "^1.1.0-alpha.1",
     "koa-jwt": "^3.3.2",
-    "log4js": "^3.0.4",
+    "log4js": "^6.4.0",
     "mocha": "^4.0.1",
     "mochawesome": "^3.0.3",
     "moment": "^2.22.2",
